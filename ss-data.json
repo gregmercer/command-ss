@@ -1,726 +1,723 @@
-// https://www.stanford.edu/about/speak
-// https://asconfluence.stanford.edu/confluence/display/CRCSRVRGRP/Stanford+Acronyms
 [
   {
-    phrase: 'AD',
-    definition: 'Academic Director. Professor academic advisor in each residence who is a key resource during your pre-major years.',
-    link: '',
-    tags: ''
+    "phrase" : "AD",
+    "definition" : "Academic Director. Professor academic advisor in each residence who is a key resource during your pre-major years.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'All Nighter (to pull an…)',
-    definition: 'A common phenomenon, especially when it\'s time for final exams.',
-    link: '',
-    tags: ''
+    "phrase" : "All Nighter (to pull an…)",
+    "definition" : "A common phenomenon, especially when it's time for final exams.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'ASSU',
-    definition: 'Associated Students of Stanford University – the student government.',
-    link: '',
-    tags: ''
+    "phrase" : "ASSU",
+    "definition" : "Associated Students of Stanford University – the student government.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Axe',
-    definition: 'The symbol of rivalry between Stanford University and our traditional rival, U.C. Berkeley (Cal). The Axe is awarded each year to the school winning the Big Game.',
-    link: '',
-    tags: ''
+    "phrase" : "The Axe",
+    "definition" : "The symbol of rivalry between Stanford University and our traditional rival, U.C. Berkeley (Cal). The Axe is awarded each year to the school winning the Big Game.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Axess',
-    definition: 'The student information system for registering, reviewing grades, changing addresses and other administrative tasks.',
-    link: '',
-    tags: ''
+    "phrase" : "Axess",
+    "definition" : "The student information system for registering, reviewing grades, changing addresses and other administrative tasks.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'BART',
-    definition: 'Bay Area Rapid Transit. A subway system which carries passengers throughout the San Francisco area.',
-    link: '',
-    tags: ''
+    "phrase" : "BART",
+    "definition" : "Bay Area Rapid Transit. A subway system which carries passengers throughout the San Francisco area.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Big Game',
-    definition: 'The annual football matchup against rival Berkeley. Traditionally it\'s the last, most highly anticipated football game of the season.',
-    link: '',
-    tags: ''
+    "phrase" : "Big Game",
+    "definition" : "The annual football matchup against rival Berkeley. Traditionally it's the last, most highly anticipated football game of the season.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Bollards',
-    definition: 'The metal and wooden posts strategically placed on campus to: 1) keep cars out; and 2) impale hapless bikers.',
-    link: '',
-    tags: ''
+    "phrase" : "Bollards",
+    "definition" : "The metal and wooden posts strategically placed on campus to: 1) keep cars out; and 2) impale hapless bikers.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Caltrain',
-    definition: 'A commuter rail system running between San Francisco and San Jose. Don\'t have a car? This is your best bet to get to "the City".',
-    link: '',
-    tags: ''
+    "phrase" : "Caltrain",
+    "definition" : "A commuter rail system running between San Francisco and San Jose. Don't have a car? This is your best bet to get to \"the City\".",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Cardinal',
-    definition: 'Stanford\'s mascot: The color, not the bird!',
-    link: '',
-    tags: ''
+    "phrase" : "Cardinal",
+    "definition" : "Stanford's mascot: The color, not the bird!",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The City',
-    definition: 'Known as San Francisco to non-Bay Area residents, it\'s the cultural center of the Bay Area and popular with students when they want to get off campus.',
-    link: '',
-    tags: ''
+    "phrase" : "The City",
+    "definition" : "Known as San Francisco to non-Bay Area residents, it's the cultural center of the Bay Area and popular with students when they want to get off campus.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Claw',
-    definition: 'Nickname for the fountain in White Plaza, between the Bookstore and Old Union.',
-    link: '',
-    tags: ''
+    "phrase" : "The Claw",
+    "definition" : "Nickname for the fountain in White Plaza, between the Bookstore and Old Union.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Co Ho',
-    definition: 'The Coffee House (or CoHo) in Tresidder Union is a popular student hangout for studying, socializing, and sipping java.',
-    link: 'http://coho.stanford.edu/',
-    tags: ''
+    "phrase" : "The Co Ho",
+    "definition" : "The Coffee House (or CoHo) in Tresidder Union is a popular student hangout for studying, socializing, and sipping java.",
+    "link" : "http://coho.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'The Daily',
-    definition: 'Stanford students\' independent newspaper.',
-    link: 'http://www.stanforddaily.com/',
-    tags: ''
+    "phrase" : "The Daily",
+    "definition" : "Stanford students' independent newspaper.",
+    "link" : "http://www.stanforddaily.com/",
+    "tags" : ""
   },
   {
-    phrase: 'Dead Week',
-    definition: 'The week immediately preceding finals week. It is intended that students study feverishly during this week.',
-    link: '',
-    tags: ''
+    "phrase" : "Dead Week",
+    "definition" : "The week immediately preceding finals week. It is intended that students study feverishly during this week.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Dink',
-    definition: 'Dinkelspiel Auditorium. Located between Tresidder Union and the Braun Music Center, this is a popular venue for musical events and other performances.',
-    link: '',
-    tags: ''
+    "phrase" : "Dink",
+    "definition" : "Dinkelspiel Auditorium. Located between Tresidder Union and the Braun Music Center, this is a popular venue for musical events and other performances.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Dish',
-    definition: 'The 150\' radio telescope in the hills behind Lake Lagunita. Also short-hand for the popular open space area in which this radio telescope is located.',
-    link: '',
-    tags: ''
+    "phrase" : "The Dish",
+    "definition" : "The 150' radio telescope in the hills behind Lake Lagunita. Also short-hand for the popular open space area in which this radio telescope is located.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Dollies',
-    definition: 'The five spirited women who accompany the Stanford Band with dance routines.',
-    link: '',
-    tags: ''
+    "phrase" : "Dollies",
+    "definition" : "The five spirited women who accompany the Stanford Band with dance routines.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Draw',
-    definition: 'The ultimate in Spring Quarter stress. This hair-raising process decides students\' housing fate for the coming year.',
-    link: '',
-    tags: ''
+    "phrase" : "The Draw",
+    "definition" : "The ultimate in Spring Quarter stress. This hair-raising process decides students' housing fate for the coming year.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'EANABs',
-    definition: 'Equally attractive non-alcoholic beverages. Required at campus parties serving alcohol.',
-    link: '',
-    tags: ''
+    "phrase" : "EANABs",
+    "definition" : "Equally attractive non-alcoholic beverages. Required at campus parties serving alcohol.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Farm',
-    definition: 'Campus nickname, derived from the days when horses rather than students roamed in what previously was the farm of university founders Leland and Jane Stanford.',
-    link: '',
-    tags: ''
+    "phrase" : "The Farm",
+    "definition" : "Campus nickname, derived from the days when horses rather than students roamed in what previously was the farm of university founders Leland and Jane Stanford.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Flicks',
-    definition: 'A stress-relieving movie screening on Sunday evenings.',
-    link: '',
-    tags: ''
+    "phrase" : "Flicks",
+    "definition" : "A stress-relieving movie screening on Sunday evenings.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Flo Mo',
-    definition: 'Florence Moore Hall, a dormitory complex.',
-    link: '',
-    tags: ''
+    "phrase" : "Flo Mo",
+    "definition" : "Florence Moore Hall, a dormitory complex.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Fountain Hopping',
-    definition: 'The concept is simple, yet surprisingly fun on a warm day. Just find one of the many fountains on campus and hop in.',
-    link: '',
-    tags: ''
+    "phrase" : "Fountain Hopping",
+    "definition" : "The concept is simple, yet surprisingly fun on a warm day. Just find one of the many fountains on campus and hop in.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Fro So Co',
-    definition: 'Freshmen-Sophomore College, a housing option for freshman and sophomores.',
-    link: '',
-    tags: ''
+    "phrase" : "Fro So Co",
+    "definition" : "Freshmen-Sophomore College, a housing option for freshman and sophomores.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Gaieties',
-    definition: 'The student-written, student-produced musical performed the weekend before Big Game.',
-    link: '',
-    tags: ''
+    "phrase" : "Gaieties",
+    "definition" : "The student-written, student-produced musical performed the weekend before Big Game.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Hoo Tow',
-    definition: 'Hoover Tower, erected in honor of Herbert Hoover. An elevator ride to the top provides an outstanding view of campus and the Bay Area.',
-    link: '',
-    tags: ''
+    "phrase" : "Hoo Tow",
+    "definition" : "Hoover Tower, erected in honor of Herbert Hoover. An elevator ride to the top provides an outstanding view of campus and the Bay Area.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'IMs',
-    definition: 'Intramurals. Sports tournaments ranging from football to inner-tube water polo that are expressly for dorm teams. A source of good-natured dorm rivalries.',
-    link: '',
-    tags: ''
+    "phrase" : "IMs",
+    "definition" : "Intramurals. Sports tournaments ranging from football to inner-tube water polo that are expressly for dorm teams. A source of good-natured dorm rivalries.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Lake Lag',
-    definition: 'A wide basin at the corner of campus. Don\'t expect to actually find water here, however, as it remains dry for a good portion of the year. The trail surrounding it is popular with joggers.',
-    link: '',
-    tags: ''
+    "phrase" : "Lake Lag",
+    "definition" : "A wide basin at the corner of campus. Don't expect to actually find water here, however, as it remains dry for a good portion of the year. The trail surrounding it is popular with joggers.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'LSJUMB',
-    definition: 'Those merry masters of madcap melody, the truly incomparable Leland Stanford Junior University Marching Band!',
-    link: '',
-    tags: ''
+    "phrase" : "LSJUMB",
+    "definition" : "Those merry masters of madcap melody, the truly incomparable Leland Stanford Junior University Marching Band!",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Marguerite',
-    definition: 'Stanford\'s free shuttle system.',
-    link: '',
-    tags: ''
+    "phrase" : "Marguerite",
+    "definition" : "Stanford's free shuttle system.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Mem Aud',
-    definition: 'Memorial Auditorium, the largest on campus.',
-    link: '',
-    tags: ''
+    "phrase" : "Mem Aud",
+    "definition" : "Memorial Auditorium, the largest on campus.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Mem Chu',
-    definition: 'Memorial Church, located prominently in the Quad.',
-    link: '',
-    tags: ''
+    "phrase" : "Mem Chu",
+    "definition" : "Memorial Church, located prominently in the Quad.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Oski',
-    definition: 'The Berkeley Golden Bear -- and the nemesis of Stanford\'s Tree.',
-    link: '',
-    tags: ''
+    "phrase" : "Oski",
+    "definition" : "The Berkeley Golden Bear -- and the nemesis of Stanford's Tree.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Oval',
-    definition: 'The large grassy elliptical area at the end of Palm Drive that\'s perfect for an afternoon of Frisbee or volleyball.',
-    link: '',
-    tags: ''
+    "phrase" : "The Oval",
+    "definition" : "The large grassy elliptical area at the end of Palm Drive that's perfect for an afternoon of Frisbee or volleyball.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'PA',
-    definition: 'The moment you hit campus, this abbreviation no longer stands for the proud state of Pennsylvania but the tech-infused town of Palo Alto.',
-    link: '',
-    tags: ''
+    "phrase" : "PA",
+    "definition" : "The moment you hit campus, this abbreviation no longer stands for the proud state of Pennsylvania but the tech-infused town of Palo Alto.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'PHE',
-    definition: 'Peer Health Educator. An upperclass student in each freshmen residence who actively promotes and supports student health, wellness and safety.',
-    link: '',
-    tags: ''
+    "phrase" : "PHE",
+    "definition" : "Peer Health Educator. An upperclass student in each freshmen residence who actively promotes and supports student health, wellness and safety.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'PMA',
-    definition: 'Pre-Major Advisor. A faculty, staff, or alumni advisor who takes a small group of freshmen under his or her wing until they declare a major and helps them select courses, choose a major and navigate academic life at Stanford.',
-    link: '',
-    tags: ''
+    "phrase" : "PMA",
+    "definition" : "Pre-Major Advisor. A faculty, staff, or alumni advisor who takes a small group of freshmen under his or her wing until they declare a major and helps them select courses, choose a major and navigate academic life at Stanford.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Primal Scream',
-    definition: 'Tradition of stress alleviation for students. Listen for it at midnight the Sunday night of Dead Week.',
-    link: '',
-    tags: ''
+    "phrase" : "Primal Scream",
+    "definition" : "Tradition of stress alleviation for students. Listen for it at midnight the Sunday night of Dead Week.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Quad',
-    definition: 'An enclosure of buildings housing some of the classroom space on campus and many departmental offices.',
-    link: '',
-    tags: ''
+    "phrase" : "The Quad",
+    "definition" : "An enclosure of buildings housing some of the classroom space on campus and many departmental offices.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'RA',
-    definition: 'Resident Assistant. The truly dedicated upperclass student who lives in dorms and serves roles ranging from dorm activity coordinator to advisor, confidant and friend.',
-    link: '',
-    tags: ''
+    "phrase" : "RA",
+    "definition" : "Resident Assistant. The truly dedicated upperclass student who lives in dorms and serves roles ranging from dorm activity coordinator to advisor, confidant and friend.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'RF',
-    definition: 'Resident Fellow. Stanford faculty (and occasionally senior administrative staff) who live in student residences and serve as educational and intellectual leaders in their houses.',
-    link: '',
-    tags: ''
+    "phrase" : "RF",
+    "definition" : "Resident Fellow. Stanford faculty (and occasionally senior administrative staff) who live in student residences and serve as educational and intellectual leaders in their houses.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'RCC',
-    definition: 'Resident Computer Consultant. A human guide to computers that comes with every dorm.',
-    link: '',
-    tags: ''
+    "phrase" : "RCC",
+    "definition" : "Resident Computer Consultant. A human guide to computers that comes with every dorm.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Row',
-    definition: 'Mayfield Avenue, location of numerous upperclass houses and fraternities.',
-    link: '',
-    tags: ''
+    "phrase" : "The Row",
+    "definition" : "Mayfield Avenue, location of numerous upperclass houses and fraternities.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'TAP',
-    definition: 'Also known as “the Axe and Palm,” this is one of Stanford\'s many campus eateries. This particular one will be your best friend if you find yourself staying up late to study in Old Union.',
-    link: '',
-    tags: ''
+    "phrase" : "TAP",
+    "definition" : "Also known as “the Axe and Palm,” this is one of Stanford's many campus eateries. This particular one will be your best friend if you find yourself staying up late to study in Old Union.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'Tres Ex',
-    definition: 'Tresidder Express. Stanford\'s rendition of a 7-Eleven, located in Tresidder Union.',
-    link: '',
-    tags: ''
+    "phrase" : "Tres Ex",
+    "definition" : "Tresidder Express. Stanford's rendition of a 7-Eleven, located in Tresidder Union.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Tree',
-    definition: 'The Stanford Band\'s mascot.',
-    link: '',
-    tags: ''
+    "phrase" : "The Tree",
+    "definition" : "The Stanford Band's mascot.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'White Plaza',
-    definition: 'The large plaza surrounded by Old Union, the Bookstore, the post office, and Tresidder Union. It is a central hub of student activity on campus, especially during the spring.',
-    link: '',
-    tags: ''
+    "phrase" : "White Plaza",
+    "definition" : "The large plaza surrounded by Old Union, the Bookstore, the post office, and Tresidder Union. It is a central hub of student activity on campus, especially during the spring.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'The Zoo',
-    definition: 'KZSU, 90.1 FM, Stanford\'s student radio station.',
-    link: '',
-    tags: ''
+    "phrase" : "The Zoo",
+    "definition" : "KZSU, 90.1 FM, Stanford's student radio station.",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'ACD/eACD',
-    definition: 'Automated Call Distribution/enhanced ACD',
-    link: 'https://itservices.stanford.edu/service/eacd',
-    tags: ''
+    "phrase" : "ACD/eACD",
+    "definition" : "Automated Call Distribution/enhanced ACD",
+    "link" : "https://itservices.stanford.edu/service/eacd",
+    "tags" : ""
   },
   {
-    phrase: 'ACT',
-    definition: 'Action Required',
-    link: '',
-    tags: ''
+    "phrase" : "ACT",
+    "definition" : "Action Required",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'ADMIN',
-    definition: 'Administrative Services',
-    link: 'https://itservices.stanford.edu/organization/admin',
-    tags: ''
+    "phrase" : "ADMIN",
+    "definition" : "Administrative Services",
+    "link" : "https://itservices.stanford.edu/organization/admin",
+    "tags" : ""
   },
   {
-    phrase: 'AFS',
-    definition: 'Andrew File System',
-    link: 'https://itservices.stanford.edu/service/afs',
-    tags: ''
+    "phrase" : "AFS",
+    "definition" : "Andrew File System",
+    "link" : "https://itservices.stanford.edu/service/afs",
+    "tags" : ""
   },
   {
-    phrase: 'AS',
-    definition: 'Administrative Systems',
-    link: 'https://as.stanford.edu/stanford/display/AS/Welcome+to+Administrative+System',
-    tags: ''
+    "phrase" : "AS",
+    "definition" : "Administrative Systems",
+    "link" : "https://as.stanford.edu/stanford/display/AS/Welcome+to+Administrative+System",
+    "tags" : ""
   },
   {
-    phrase: 'ATS',
-    definition: 'Academic Technology Specialists',
-    link: 'http://ats.stanford.edu/',
-    tags: ''
+    "phrase" : "ATS",
+    "definition" : "Academic Technology Specialists",
+    "link" : "http://ats.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'BA',
-    definition: 'Business Affairs',
-    link: 'http://www.stanford.edu/dept/businessaffairs/',
-    tags: ''
+    "phrase" : "BA",
+    "definition" : "Business Affairs",
+    "link" : "http://www.stanford.edu/dept/businessaffairs/",
+    "tags" : ""
   },
   {
-    phrase: 'BaRS',
-    definition: 'Backup and Recovery Services',
-    link: 'https://itservices.stanford.edu/service/bars',
-    tags: ''
+    "phrase" : "BaRS",
+    "definition" : "Backup and Recovery Services",
+    "link" : "https://itservices.stanford.edu/service/bars",
+    "tags" : ""
   },
   {
-    phrase: 'BGM',
-    definition: 'Buildings & Grounds Maintenance',
-    link: 'http://bgm.stanford.edu',
-    tags: ''
+    "phrase" : "BGM",
+    "definition" : "Buildings & Grounds Maintenance",
+    "link" : "http://bgm.stanford.edu",
+    "tags" : ""
   },
   {
-    phrase: 'CAPE',
-    definition: 'Center for Advanced Pediatric and Perinatal Education',
-    link: 'http://cape.lpch.org',
-    tags: ''
+    "phrase" : "CAPE",
+    "definition" : "Center for Advanced Pediatric and Perinatal Education",
+    "link" : "http://cape.lpch.org",
+    "tags" : ""
   },
   {
-    phrase: 'CHaMP',
-    definition: 'Campus Hardware Maintenance Program',
-    link: 'https://itservices.stanford.edu/service/champ',
-    tags: ''
+    "phrase" : "CHaMP",
+    "definition" : "Campus Hardware Maintenance Program",
+    "link" : "https://itservices.stanford.edu/service/champ",
+    "tags" : ""
   },
   {
-    phrase: 'CIBSR',
-    definition: 'Center for Interdisciplinary Brain Sciences Research',
-    link: '',
-    tags: ''
+    "phrase" : "CIBSR",
+    "definition" : "Center for Interdisciplinary Brain Sciences Research",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'CIRGE',
-    definition: 'Center for Integration of Research on Genetics and Ethics',
-    link: 'http://cirge.stanford.edu/',
-    tags: ''
+    "phrase" : "CIRGE",
+    "definition" : "Center for Integration of Research on Genetics and Ethics",
+    "link" : "http://cirge.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'CIS',
-    definition: 'Center for Internet and Society',
-    link: 'http://cyberlaw.stanford.edu/',
-    tags: ''
+    "phrase" : "CIS",
+    "definition" : "Center for Internet and Society",
+    "link" : "http://cyberlaw.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'CISA',
-    definition: 'Computer Information Systems Analyst',
-    link: '',
-    tags: ''
+    "phrase" : "CISA",
+    "definition" : "Computer Information Systems Analyst",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'CMS',
-    definition: 'Communications Services',
-    link: 'https://itservices.stanford.edu/organization/communication_services',
-    tags: ''
+    "phrase" : "CMS",
+    "definition" : "Communications Services",
+    "link" : "https://itservices.stanford.edu/organization/communication_services",
+    "tags" : ""
   },
   {
-    phrase: 'CPS',
-    definition: 'Computing Services',
-    link: 'https://itservices.stanford.edu/organization/computing_services',
-    tags: ''
+    "phrase" : "CPS",
+    "definition" : "Computing Services",
+    "link" : "https://itservices.stanford.edu/organization/computing_services",
+    "tags" : ""
   },
   {
-    phrase: 'CRA',
-    definition: 'Computer Resource Associate',
-    link: '',
-    tags: ''
+    "phrase" : "CRA",
+    "definition" : "Computer Resource Associate",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'CRC',
-    definition: 'Computer Resource Consulting',
-    link: 'https://itservices.stanford.edu/service/contract-support',
-    tags: ''
+    "phrase" : "CRC",
+    "definition" : "Computer Resource Consulting",
+    "link" : "https://itservices.stanford.edu/service/contract-support",
+    "tags" : ""
   },
   {
-    phrase: 'CRCSG',
-    definition: 'CRC Server Group',
-    link: 'https://itservices.stanford.edu/service/contract-support/server',
-    tags: ''
+    "phrase" : "CRCSG",
+    "definition" : "CRC Server Group",
+    "link" : "https://itservices.stanford.edu/service/contract-support/server",
+    "tags" : ""
   },
   {
-    phrase: 'CSL',
-    definition: 'Computer Systems Laboratory',
-    link: 'http://csl.stanford.edu/research.html',
-    tags: ''
+    "phrase" : "CSL",
+    "definition" : "Computer Systems Laboratory",
+    "link" : "http://csl.stanford.edu/research.html",
+    "tags" : ""
   },
 
   {
-    phrase: 'd.school',
-    definition: 'Hasso Plattner Institute of Design',
-    link: 'http://dschool.stanford.edu/',
-    tags: ''
+    "phrase" : "d.school",
+    "definition" : "Hasso Plattner Institute of Design",
+    "link" : "http://dschool.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'DAPER',
-    definition: 'Department of Athletics, Physical Education & Recreation',
-    link: 'https://www.stanford.edu/dept/daper/',
-    tags: ''
+    "phrase" : "DAPER",
+    "definition" : "Department of Athletics, Physical Education & Recreation",
+    "link" : "https://www.stanford.edu/dept/daper/",
+    "tags" : ""
   },
   {
-    phrase: 'DCM',
-    definition: 'Desktop Configuration Management',
-    link: 'https://itservices.stanford.edu/service/dcm',
-    tags: ''
+    "phrase" : "DCM",
+    "definition" : "Desktop Configuration Management",
+    "link" : "https://itservices.stanford.edu/service/dcm",
+    "tags" : ""
   },
   {
-    phrase: 'DDD',
-    definition: 'Documentation, Design, and Development',
-    link: 'https://itservices.stanford.edu/organization/documentation',
-    tags: ''
+    "phrase" : "DDD",
+    "definition" : "Documentation, Design, and Development",
+    "link" : "https://itservices.stanford.edu/organization/documentation",
+    "tags" : ""
   },
   {
-    phrase: 'DGB',
-    definition: 'Data Governance Board',
-    link: 'http://www.stanford.edu/group/security/securecomputing/DGB.html',
-    tags: ''
+    "phrase" : "DGB",
+    "definition" : "Data Governance Board",
+    "link" : "http://www.stanford.edu/group/security/securecomputing/DGB.html",
+    "tags" : ""
   },
   {
-    phrase: 'DOR',
-    definition: 'Dean of Research',
-    link: 'http://dor.stanford.edu/',
-    tags: ''
+    "phrase" : "DOR",
+    "definition" : "Dean of Research",
+    "link" : "http://dor.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'ECH',
-    definition: 'Electronic Communications Hub',
-    link: '',
-    tags: ''
+    "phrase" : "ECH",
+    "definition" : "Electronic Communications Hub",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'E-IPER',
-    definition: 'Emmett Interdisciplinary Program in Environment and Resources',
-    link: 'http://e-iper.stanford.edu/',
-    tags: ''
+    "phrase" : "E-IPER",
+    "definition" : "Emmett Interdisciplinary Program in Environment and Resources",
+    "link" : "http://e-iper.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'EPGY',
-    definition: 'Education Program for Gifted Youth',
-    link: 'http://epgy.stanford.edu/',
-    tags: ''
+    "phrase" : "EPGY",
+    "definition" : "Education Program for Gifted Youth",
+    "link" : "http://epgy.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'EH&S',
-    definition: 'Environmental Health & Safety',
-    link: 'http://www.stanford.edu/dept/EHS/prod/general/fire/index.html',
-    tags: ''
+    "phrase" : "EH&S",
+    "definition" : "Environmental Health & Safety",
+    "link" : "http://www.stanford.edu/dept/EHS/prod/general/fire/index.html",
+    "tags" : ""
   },
   {
-    phrase: 'ERE',
-    definition: 'Energy Resources Engineering',
-    link: 'http://pangea.stanford.edu/ERE/',
-    tags: ''
+    "phrase" : "ERE",
+    "definition" : "Energy Resources Engineering",
+    "link" : "http://pangea.stanford.edu/ERE/",
+    "tags" : ""
   },
   {
-    phrase: 'ESS',
-    definition: 'Essential Stanford Software',
-    link: 'https://itservices.stanford.edu/service/ess',
-    tags: ''
+    "phrase" : "ESS",
+    "definition" : "Essential Stanford Software",
+    "link" : "https://itservices.stanford.edu/service/ess",
+    "tags" : ""
   },
   {
-    phrase: 'eTOG',
-    definition: 'Electronic Training Opportunities Guide',
-    link: 'http://training.stanford.edu/',
-    tags: ''
+    "phrase" : "eTOG",
+    "definition" : "Electronic Training Opportunities Guide",
+    "link" : "http://training.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'FAO',
-    definition: 'Financial Aid Office',
-    link: 'http://www.stanford.edu/dept/finaid/',
-    tags: ''
+    "phrase" : "FAO",
+    "definition" : "Financial Aid Office",
+    "link" : "http://www.stanford.edu/dept/finaid/",
+    "tags" : ""
   },
   {
-    phrase: 'FERPA',
-    definition: 'Family Educational Right and Privacy Act',
-    link: 'http://studentaffairs.stanford.edu/registrar/students/ferpa',
-    tags: ''
+    "phrase" : "FERPA",
+    "definition" : "Family Educational Right and Privacy Act",
+    "link" : "http://studentaffairs.stanford.edu/registrar/students/ferpa",
+    "tags" : ""
   },
   {
-    phrase: 'FST',
-    definition: 'Field Support Team',
-    link: '',
-    tags: ''
+    "phrase" : "FST",
+    "definition" : "Field Support Team",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'GCEP',
-    definition: 'Global Climate and Energy Project',
-    link: 'http://gcep.stanford.edu',
-    tags: ''
+    "phrase" : "GCEP",
+    "definition" : "Global Climate and Energy Project",
+    "link" : "http://gcep.stanford.edu",
+    "tags" : ""
   },
   {
-    phrase: 'GES',
-    definition: 'Geological and Environment Sciences',
-    link: 'http://ges.stanford.edu/',
-    tags: ''
+    "phrase" : "GES",
+    "definition" : "Geological and Environment Sciences",
+    "link" : "http://ges.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'GSB',
-    definition: 'Graduate School of Business',
-    link: 'http://www.gsb.stanford.edu/',
-    tags: ''
+    "phrase" : "GSB",
+    "definition" : "Graduate School of Business",
+    "link" : "http://www.gsb.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'H&S',
-    definition: 'School of Humanities & Sciences',
-    link: 'http://humsci.stanford.edu/',
-    tags: ''
+    "phrase" : "H&S",
+    "definition" : "School of Humanities & Sciences",
+    "link" : "http://humsci.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'HSDO',
-    definition: 'Humanities & Sciences Deans\' Office',
-    link: '',
-    tags: ''
+    "phrase" : "HSDO",
+    "definition" : "Humanities & Sciences Deans' Office",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'HIP',
-    definition: 'Health Improvement Program',
-    link: 'http://hip.stanford.edu/',
-    tags: ''
+    "phrase" : "HIP",
+    "definition" : "Health Improvement Program",
+    "link" : "http://hip.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'HIPAA',
-    definition: 'The Health Insurance Portability and Accountability Act of 1996',
-    link: 'http://hipaa.stanford.edu/',
-    tags: ''
+    "phrase" : "HIPAA",
+    "definition" : "The Health Insurance Portability and Accountability Act of 1996",
+    "link" : "http://hipaa.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'HPC',
-    definition: 'High Performance Computing',
-    link: 'https://itservices.stanford.edu/service/hpc-cluster',
-    tags: ''
+    "phrase" : "HPC",
+    "definition" : "High Performance Computing",
+    "link" : "https://itservices.stanford.edu/service/hpc-cluster",
+    "tags" : ""
   },
   {
-    phrase: 'IA',
-    definition: 'Internal Audit',
-    link: 'http://www.stanford.edu/dept/Internal-Audit/',
-    tags: ''
+    "phrase" : "IA",
+    "definition" : "Internal Audit",
+    "link" : "http://www.stanford.edu/dept/Internal-Audit/",
+    "tags" : ""
   },
   {
-    phrase: 'IDG',
-    definition: 'Infrastructure Delivery Group',
-    link: 'https://itservices.stanford.edu/organization/infrastructureservices',
-    tags: ''
+    "phrase" : "IDG",
+    "definition" : "Infrastructure Delivery Group",
+    "link" : "https://itservices.stanford.edu/organization/infrastructureservices",
+    "tags" : ""
   },
   {
-    phrase: 'IGFS',
-    definition: 'Individual & Group File Storage',
-    link: 'https://itservices.stanford.edu/service/storage/file',
-    tags: ''
+    "phrase" : "IGFS",
+    "definition" : "Individual & Group File Storage",
+    "link" : "https://itservices.stanford.edu/service/storage/file",
+    "tags" : ""
   },
   {
-    phrase: 'IRT',
-    definition: 'Information Resources & Technology',
-    link: 'http://irt.stanford.edu/',
-    tags: ''
+    "phrase" : "IRT",
+    "definition" : "Information Resources & Technology",
+    "link" : "http://irt.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'ISO',
-    definition: 'Information Security Office',
-    link: 'http://www.stanford.edu/group/security/',
-    tags: ''
+    "phrase" : "ISO",
+    "definition" : "Information Security Office",
+    "link" : "http://www.stanford.edu/group/security/",
+    "tags" : ""
   },
   {
-    phrase: 'ITLP',
-    definition: 'IT Leadership Program',
-    link: '',
-    tags: ''
+    "phrase" : "ITLP",
+    "definition" : "IT Leadership Program",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'ITOC',
-    definition: 'IT Operations Center',
-    link: 'https://itservices.stanford.edu/organization/itoc',
-    tags: ''
+    "phrase" : "ITOC",
+    "definition" : "IT Operations Center",
+    "link" : "https://itservices.stanford.edu/organization/itoc",
+    "tags" : ""
   },
   {
-    phrase: 'ITS',
-    definition: 'Information Technology Services',
-    link: 'https://itservices.stanford.edu/',
-    tags: ''
+    "phrase" : "ITS",
+    "definition" : "Information Technology Services",
+    "link" : "https://itservices.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'ITS-SA',
-    definition: 'IT Services - Systems Administration Group',
-    link: 'https://itservices.stanford.edu/strategy/sysadmin',
-    tags: ''
+    "phrase" : "ITS-SA",
+    "definition" : "IT Services - Systems Administration Group",
+    "link" : "https://itservices.stanford.edu/strategy/sysadmin",
+    "tags" : ""
   },
   {
-    phrase: 'JGC',
-    definition: 'John Gardner Center',
-    link: 'http://gardnercenter.stanford.edu/',
-    tags: ''
+    "phrase" : "JGC",
+    "definition" : "John Gardner Center",
+    "link" : "http://gardnercenter.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'KDC',
-    definition: 'Key Distribution Center',
-    link: 'https://itservices.stanford.edu/strategy/access_control/authentication',
-    tags: ''
+    "phrase" : "KDC",
+    "definition" : "Key Distribution Center",
+    "link" : "https://itservices.stanford.edu/strategy/access_control/authentication",
+    "tags" : ""
   },
   {
-    phrase: 'KIR',
-    definition: 'Keep It Running',
-    link: '',
-    tags: ''
+    "phrase" : "KIR",
+    "definition" : "Keep It Running",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'KMC',
-    definition: 'Knight Management Center',
-    link: 'http://www.gsb.stanford.edu/knightcenter/',
-    tags: ''
+    "phrase" : "KMC",
+    "definition" : "Knight Management Center",
+    "link" : "http://www.gsb.stanford.edu/knightcenter/",
+    "tags" : ""
   },
   {
-    phrase: 'LKSC',
-    definition: 'Li Ka Shing Center for Learning and Knowledge',
-    link: 'http://lksc.stanford.edu/',
-    tags: ''
+    "phrase" : "LKSC",
+    "definition" : "Li Ka Shing Center for Learning and Knowledge",
+    "link" : "http://lksc.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'LNA',
-    definition: 'Local Network Administrator',
-    link: 'https://itservices.stanford.edu/service/lnaguide',
-    tags: ''
+    "phrase" : "LNA",
+    "definition" : "Local Network Administrator",
+    "link" : "https://itservices.stanford.edu/service/lnaguide",
+    "tags" : ""
   },
   {
-    phrase: 'LBRE',
-    definition: 'Land, Buildings & Real Estate',
-    link: 'http://lbre.stanford.edu/about_lbre',
-    tags: ''
+    "phrase" : "LBRE",
+    "definition" : "Land, Buildings & Real Estate",
+    "link" : "http://lbre.stanford.edu/about_lbre",
+    "tags" : ""
   },
   {
-    phrase: 'LPCH',
-    definition: 'Lucile Packard Children\'s Hospital',
-    link: 'http://www.lpch.org/',
-    tags: ''
+    "phrase" : "LPCH",
+    "definition" : "Lucile Packard Children's Hospital",
+    "link" : "http://www.lpch.org/",
+    "tags" : ""
   },
   {
-    phrase: 'M&C',
-    definition: 'Mechanics & Computation',
-    link: 'http://mc.stanford.edu/',
-    tags: ''
+    "phrase" : "M&C",
+    "definition" : "Mechanics & Computation",
+    "link" : "http://mc.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'MDS',
-    definition: 'Managed Desktop Service',
-    link: 'https://itservices.stanford.edu/service/manageddesktop',
-    tags: ''
+    "phrase" : "MDS",
+    "definition" : "Managed Desktop Service",
+    "link" : "https://itservices.stanford.edu/service/manageddesktop",
+    "tags" : ""
   },
   {
-    phrase: 'MLK-KPP',
-    definition: 'Martin Luther King, Jr. - King Papers Project',
-    link: 'http://mlk-kpp01.stanford.edu/',
-    tags: ''
+    "phrase" : "MLK-KPP",
+    "definition" : "Martin Luther King, Jr. - King Papers Project",
+    "link" : "http://mlk-kpp01.stanford.edu/",
+    "tags" : ""
   },
   {
-    phrase: 'MMR',
-    definition: 'Managed Machine Room',
-    link: '',
-    tags: ''
+    "phrase" : "MMR",
+    "definition" : "Managed Machine Room",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'MRC',
-    definition: 'Monthly Recurring Charge',
-    link: '',
-    tags: ''
+    "phrase" : "MRC",
+    "definition" : "Monthly Recurring Charge",
+    "link" : "",
+    "tags" : ""
   },
   {
-    phrase: 'N2S',
-    definition: 'Net-to-Switch Service',
-    link: 'https://itservices.stanford.edu/service/net2switch',
-    tags: ''
+    "phrase" : "N2S",
+    "definition" : "Net-to-Switch Service",
+    "link" : "https://itservices.stanford.edu/service/net2switch",
+    "tags" : ""
   },
   {
-    phrase: 'NIM',
-    definition: 'Network Identity Manager',
-    link: 'https://itservices.stanford.edu/service/ess/pc/docs/kerberos',
-    tags: ''
+    "phrase" : "NIM",
+    "definition" : "Network Identity Manager",
+    "link" : "https://itservices.stanford.edu/service/ess/pc/docs/kerberos",
+    "tags" : ""
   },
   {
-    phrase: 'NS',
-    definition: 'Networking Systems',
-    link: 'https://itservices.stanford.edu/service/network',
-    tags: ''
+    "phrase" : "NS",
+    "definition" : "Networking Systems",
+    "link" : "https://itservices.stanford.edu/service/network",
+    "tags" : ""
   },
   {
-    phrase: 'NTP',
-    definition: 'Network Time Protocol',
-    link: 'https://itservices.stanford.edu/service/ntp',
-    tags: ''
+    "phrase" : "NTP",
+    "definition" : "Network Time Protocol",
+    "link" : "https://itservices.stanford.edu/service/ntp",
+    "tags" : ""
   }
-];
-
+]
