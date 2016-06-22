@@ -1,6 +1,6 @@
 {
   "name": "command-ss",
-  "version": "1.0.42",
+  "version": "1.0.43",
   "main": "index",
   "dependencies": {
     "lodash": "^3.8.0"
